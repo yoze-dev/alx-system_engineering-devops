@@ -1,21 +1,24 @@
 # Shell Permissions
 
 ## Learning Objectives
+
 At the end of this project, we are expected to know:
-	* What do the commands `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr` do
-	* How to redirect standard output to a file
-	* How to get standard input from a file instead of the keyboard
-	* How to send the ouput from one program to the input of another program.
-	* How to combine commands and filters with redirections
-	* What are special characters
-	* Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them.
-	* How to display a line of text
-	* How to concatenate files and print on the standard output
-	* How to reverse a string
-	* What is the `/etc/passwd` file and what is its format
-	* What is the `/etc/shadow` file and what is its format
+* What do the commands `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr` do
+* How to redirect standard output to a file
+* How to get standard input from a file instead of the keyboard
+* How to send the ouput from one program to the input of another program.
+* How to combine commands and filters with redirections
+* What are special characters
+* Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them.
+* How to display a line of text
+* How to concatenate files and print on the standard output
+* How to reverse a string
+* What is the `/etc/passwd` file and what is its format
+* What is the `/etc/shadow` file and what is its format
+
 ## Tasks
 ### Mandatory Tasks
+
 **0. Hello World**
 Write a script that prints "Hello, World", followed by a new line to the standard output.
 **1. Confused smiley**
